@@ -383,6 +383,7 @@ body::-webkit-scrollbar-thumb {
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   margin-bottom: 15px;
+  text-align: center;
 }
 
 .box-welcome .profile  {
@@ -398,6 +399,9 @@ body::-webkit-scrollbar-thumb {
   -ms-border-radius: 7px;
   -o-border-radius: 7px;
   margin-bottom: 60px;
+}
+.text-middle {
+  text-align: center;
 }
 /* End Box Welcome */
 
